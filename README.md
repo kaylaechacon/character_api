@@ -1,3 +1,12 @@
+# Search For a Video Game Characters via an API
+
+## My Third Party API
+ https://www.giantbomb.com/api/character/[guid]/?api_key=
+
+## Problem Statement
+This is a React App for searching information on main stream Video Game Characters
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
