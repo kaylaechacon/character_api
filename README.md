@@ -4,8 +4,15 @@
  https://www.giantbomb.com/api/character/[guid]/?api_key=
 
 ## Problem Statement
-This is a React App for searching information on main stream Video Game Characters
+Sometimes people want to search for video game characters with ease. This is a React App made just for that. This new search redefines videogame researching. A user types in the name of the character and their game info, birthday, full name and first game apperances show up.
 
+## Target User
+This is for anyone wanting to do some brief research on a specific Video Game Character.
+
+## Wireframe:
+My wireframe is attached as a file.
+I'm planning to make my stateful components my app.js and app.html. These will hold the core outline and information.
+Each character component such as Birthday, Age, Game apperances, etc will be their own seperate stateless counterparts. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
