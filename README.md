@@ -14,12 +14,9 @@ My wireframe is attached as a file as well as inserted here.
 I'm planning to make my stateful components my app.js and app.html. These will hold the core outline and information.
 Each character component such as Birthday, Age, Game apperances, etc will be their own seperate stateless counterparts. 
 
-
+![](videogames/Wireframe.png/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
-
 
 ## Available Scripts
 
