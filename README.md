@@ -16,7 +16,9 @@ Each character component such as Birthday, Age, Game apperances, etc will be the
 
 ![](Wireframe.png)
 
-## Resources I used
+## Resources I Used 
+I in no way or form claim rights or credibility to the styling under my ".App-header" class in App.css.
+The ".App-header" styling is default and provided by React. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
