@@ -11,10 +11,12 @@ This is for anyone wanting to do some brief research on a specific Video Game Ch
 
 ## Wireframe:
 My wireframe is attached as a file as well as inserted here.
-I'm planning to make my stateful components my app.js, app.html and app.css. These will hold the core outline and information.
+I'm planning to make my stateful components my app.js, app.html and app.css. These will hold the core outline and information of my react app.
 Each character component such as Birthday, Age, Game apperances, etc will be their own seperate stateless counterparts. 
 
 ![](Wireframe.png)
+
+## Resources I used
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
